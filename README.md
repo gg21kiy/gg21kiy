@@ -1,6 +1,12 @@
 <h1 align="center">👋 ¡Hola, soy gg21kiy!</h1>
 
 <p align="center">
+  🇪🇸 Español · <a href="https://github.com/gg21kiy/gg21kiy/blob/main/README.en.md">🇬🇧 Read in English</a>
+</p>
+
+---
+
+<p align="center">
   Modder y programador aficionado 🎮<br/>
   Creo mods, submods y traducciones para los juegos que me gustan.
 </p>
@@ -35,9 +41,9 @@ Submod para **Monika After Story** que añade opciones de diálogo para avisarle
 
 `Ren'Py`
 
-<!-- Captura o GIF: sube la imagen a tu repo y descomenta
-<p align="center"><img src="RUTA_A_TU_IMAGEN.gif" width="500" alt="MAS Submod en acción" /></p>
--->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gg21kiy/gg21kiy/main/Screenshots/VAJAUJEMS/p1.jpg" width="600" alt="MAS Submod: Monika pregunta el nombre del juego" />
+</p>
 
 📥 **Instalación:** descarga la última versión desde [Releases](https://github.com/gg21kiy/Voy-a-jugar-un-juego-especifico-MAS-Submod/releases) y copia la carpeta en `game/Submods/` de tu Monika After Story.
 
@@ -46,9 +52,21 @@ Pack de traducciones para **SM64CoopDX / sm64ex-coop** en cuatro idiomas: castel
 
 `Lua`
 
-<!-- Captura o GIF: sube la imagen a tu repo y descomenta
-<p align="center"><img src="RUTA_A_TU_IMAGEN.png" width="500" alt="Traducciones en SM64CoopDX" /></p>
--->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gg21kiy/gg21kiy/main/Screenshots/SM64Coop-ES-CA-GL-EU/menu_idioma.jpg" width="600" alt="Selector de idioma con castellano, català, galego y euskara" />
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/gg21kiy/gg21kiy/main/Screenshots/SM64Coop-ES-CA-GL-EU/menu_catalan.jpg" width="280" alt="Menú en català" /><br/><sub>Català</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/gg21kiy/gg21kiy/main/Screenshots/SM64Coop-ES-CA-GL-EU/menu_galego.jpg" width="280" alt="Menú en galego" /><br/><sub>Galego</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/gg21kiy/gg21kiy/main/Screenshots/SM64Coop-ES-CA-GL-EU/menu_euskera.jpg" width="280" alt="Menú en euskara" /><br/><sub>Euskara</sub></td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gg21kiy/gg21kiy/main/Screenshots/SM64Coop-ES-CA-GL-EU/mods_menu.jpg" width="600" alt="Menú de mods con los paquetes de traducción" />
+</p>
 
 📥 **Instalación:** descarga la última versión desde [Releases](https://github.com/gg21kiy/SM64Coop-ES-CA-GL-EU-Traduccion/releases) y colócala en la carpeta de mods de SM64CoopDX.
 
@@ -77,12 +95,6 @@ Pack de traducciones para **SM64CoopDX / sm64ex-coop** en cuatro idiomas: castel
 ---
 
 ## 📫 Contacto y comunidad
-
-<!-- Descomenta y rellena los que uses
-[![Discord](https://img.shields.io/badge/Discord-TU_USUARIO-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/TU_ID)
-[![Twitter](https://img.shields.io/badge/X-TU_USUARIO-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/TU_USUARIO)
-[![Web](https://img.shields.io/badge/Web-TU_WEB-4c8eda?style=for-the-badge&logo=googlechrome&logoColor=white)](https://TU_WEB)
--->
 
 ¿Ideas, bugs o sugerencias? Abre un *issue* en cualquiera de mis repositorios. ¡Toda ayuda es bienvenida!
 
