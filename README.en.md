@@ -30,7 +30,7 @@
 
 ## 🚧 Currently working on
 
-- 🏆 **Moon64 achievements mod** for SM64ex-coop / SM64CoopDX.
+- 🏆 **A achievements mod inspirate from Moon64** for SM64ex-coop / SM64CoopDX.
 
 ---
 
