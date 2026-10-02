@@ -14,7 +14,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Ren'Py-FF7F7F?style=for-the-badge" alt="Ren'Py" />
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
-  <img src="https://img.shields.io/badge/Idiomas-ES%20·%20CA%20·%20GL%20·%20EU-4c8eda?style=for-the-badge" alt="Idiomas" />
+  <img src="https://img.shields.io/badge/Idiomas-ES%20·%20CA%20·%20GL%20·%20EU%20·%20EN-4c8eda?style=for-the-badge" alt="Idiomas" />
 </p>
 
 ---
