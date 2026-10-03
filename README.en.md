@@ -82,7 +82,11 @@ Moon64-inspired achievement system for **SM64CoopDX**: 46 achievements across 6 
   </tr>
 </table>
 
-📥 **Installation:** download the latest version from [Releases](https://github.com/gg21kiy/sm64coop-achievements/releases) and copy the folder into your SM64CoopDX mods folder.
+📥 **Installation:** download the latest version from [Releases](https://github.com/gg21kiy/sm64coop-achievements/releases) or via [GameBanana](https://gamebanana.com/mods/723530) and copy the folder into your SM64CoopDX mods folder.
+
+[![](https://gamebanana.com/mods/embeddables/723530?type=large)](https://gamebanana.com/mods/723530)
+
+[![Download on GameBanana](https://img.shields.io/badge/GameBanana-Download-yellow?style=for-the-badge)](https://gamebanana.com/mods/723530)
 
 ---
 
