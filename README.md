@@ -85,7 +85,11 @@ Sistema de logros inspirado en Moon64 para **SM64CoopDX**: 46 logros en 6 catego
   </tr>
 </table>
 
-📥 **Instalación:** descarga la última versión desde [Releases](https://github.com/gg21kiy/sm64coop-achievements/releases) y copia la carpeta en la carpeta de mods de SM64CoopDX.
+📥 **Instalación:** descarga la última versión desde [Releases](https://github.com/gg21kiy/sm64coop-achievements/releases) o via [GameBanana](https://gamebanana.com/mods/723530) y copia la carpeta en la carpeta de mods de SM64CoopDX.
+
+[![](https://gamebanana.com/mods/embeddables/723530?type=large)](https://gamebanana.com/mods/723530)
+
+[![Descarga en GameBanana](https://img.shields.io/badge/GameBanana-Download-yellow?style=for-the-badge)](https://gamebanana.com/mods/723530)
 
 ---
 
