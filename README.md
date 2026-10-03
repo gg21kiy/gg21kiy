@@ -71,7 +71,7 @@ Pack de traducciones para **SM64CoopDX / sm64ex-coop** en cuatro idiomas: castel
 📥 **Instalación:** descarga la última versión desde [Releases](https://github.com/gg21kiy/SM64Coop-ES-CA-GL-EU-Traduccion/releases) y colócala en la carpeta de mods de SM64CoopDX.
 
 ### 🏆 [SM64Coop · Achievements](https://github.com/gg21kiy/sm64coop-achievements)
-Sistema de logros inspirado en Moon64 para **SM64Coop**: 46 logros en 6 categorías, notificaciones configurables, menú de logros dentro del juego y progreso por archivo de guardado.
+Sistema de logros inspirado en Moon64 para **SM64CoopDX**: 46 logros en 6 categorías, notificaciones configurables, menú de logros dentro del juego y progreso por archivo de guardado.
 
 > [!WARNING]
 > Actualmente, este proyecto solo está en Inglés
@@ -85,7 +85,7 @@ Sistema de logros inspirado en Moon64 para **SM64Coop**: 46 logros en 6 categor�
   </tr>
 </table>
 
-📥 **Instalación:** descarga la última versión desde [Releases](https://github.com/gg21kiy/sm64coop-achievements/releases) y copia la carpeta en la carpeta de mods de SM64Coop.
+📥 **Instalación:** descarga la última versión desde [Releases](https://github.com/gg21kiy/sm64coop-achievements/releases) y copia la carpeta en la carpeta de mods de SM64CoopDX.
 
 ---
 
