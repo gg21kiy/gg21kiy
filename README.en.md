@@ -82,7 +82,7 @@ Moon64-inspired achievement system for **SM64CoopDX**: 46 achievements across 6 
   </tr>
 </table>
 
-📥 **Installation:** download the latest version from [Releases](https://github.com/gg21kiy/sm64coop-achievements/releases) and copy the folder into your SM64Coop mods folder.
+📥 **Installation:** download the latest version from [Releases](https://github.com/gg21kiy/sm64coop-achievements/releases) and copy the folder into your SM64CoopDX mods folder.
 
 ---
 
