@@ -68,7 +68,11 @@ Translation pack for **SM64CoopDX / sm64ex-coop** in four languages: Spanish, Ca
   <img src="https://raw.githubusercontent.com/gg21kiy/gg21kiy/main/Screenshots/SM64Coop-ES-CA-GL-EU/mods_menu.jpg" width="600" alt="Mods menu with the translation packs" />
 </p>
 
-📥 **Installation:** download the latest version from [Releases](https://github.com/gg21kiy/SM64Coop-ES-CA-GL-EU-Traduccion/releases) and place it in your SM64CoopDX mods folder.
+📥 **Installation:** download the latest version from [Releases](https://github.com/gg21kiy/SM64Coop-ES-CA-GL-EU-Traduccion/releases) or via [GameBanana](https://gamebanana.com/mods/712723) and place it in your SM64CoopDX mods folder.
+
+[![](https://gamebanana.com/mods/embeddables/712723?type=large)](https://gamebanana.com/mods/712723)
+
+[![Download On GameBanana](https://img.shields.io/badge/GameBanana-Download-yellow?style=for-the-badge)](https://gamebanana.com/mods/712723)
 
 ### 🏆 [SM64Coop · Achievements](https://github.com/gg21kiy/sm64coop-achievements)
 Moon64-inspired achievement system for **SM64CoopDX**: 46 achievements across 6 categories, configurable notifications, an in-game achievements menu and per-save-file progress.
