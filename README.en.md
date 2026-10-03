@@ -30,7 +30,7 @@
 
 ## 🚧 Currently working on
 
-- 🏆 **A achievements mod inspirate from Moon64** for SM64ex-coop / SM64CoopDX.
+I am not currently working on any projects.
 
 ---
 
@@ -69,6 +69,20 @@ Translation pack for **SM64CoopDX / sm64ex-coop** in four languages: Spanish, Ca
 </p>
 
 📥 **Installation:** download the latest version from [Releases](https://github.com/gg21kiy/SM64Coop-ES-CA-GL-EU-Traduccion/releases) and place it in your SM64CoopDX mods folder.
+
+### 🏆 [SM64Coop · Achievements](https://github.com/gg21kiy/sm64coop-achievements)
+Moon64-inspired achievement system for **SM64CoopDX**: 46 achievements across 6 categories, configurable notifications, an in-game achievements menu and per-save-file progress.
+
+`Lua`
+
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/gg21kiy/sm64coop-achievements/main/Screenshots/popup.jpg" width="400" alt="Achievement unlock notification" /><br/><sub>Achievement popup</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/gg21kiy/sm64coop-achievements/main/Screenshots/achievements-menu-1.jpg" width="400" alt="Achievements menu" /><br/><sub>Achievements menu</sub></td>
+  </tr>
+</table>
+
+📥 **Installation:** download the latest version from [Releases](https://github.com/gg21kiy/sm64coop-achievements/releases) and copy the folder into your SM64Coop mods folder.
 
 ---
 
