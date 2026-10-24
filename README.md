@@ -77,9 +77,6 @@ Pack de traducciones para **SM64CoopDX / sm64ex-coop** en cuatro idiomas: castel
 ### 🏆 [SM64Coop · Achievements](https://github.com/gg21kiy/sm64coop-achievements)
 Sistema de logros inspirado en Moon64 para **SM64CoopDX**: 46 logros en 6 categorías, notificaciones configurables, menú de logros dentro del juego y progreso por archivo de guardado.
 
-> [!WARNING]
-> Actualmente, este proyecto solo está en Inglés
-
 `Lua`
 
 <table align="center">
