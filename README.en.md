@@ -41,6 +41,9 @@ A submod for **Monika After Story** that adds dialogue options to tell Monika wh
 
 `Ren'Py`
 
+> [!WARNING]
+> Currently, this project is only available in Spanish.
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/gg21kiy/gg21kiy/main/Screenshots/VAJAUJEMS/p1.jpg" width="600" alt="MAS Submod: Monika asks for the game's name" />
 </p>
