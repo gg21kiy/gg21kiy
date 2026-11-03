@@ -30,7 +30,7 @@
 
 ## 🚧 Currently working on
 
-* 🎮 DDLC Launcher — Lanzador para gestionar DDLC, mods, submods y partidas guardadas. (WIP)
+* 🎮 DDLC Launcher — A launcher to manage DDLC, mods, submods, and save files. (WIP)
 
 ---
 
