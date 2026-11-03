@@ -30,7 +30,7 @@
 
 ## 🚧 Currently working on
 
-I am not currently working on any projects.
+* 🎮 DDLC Launcher — Lanzador para gestionar DDLC, mods, submods y partidas guardadas. (WIP)
 
 ---
 
